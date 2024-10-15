@@ -198,7 +198,8 @@ footer {
   font-weight: 700;
   line-height: 26px;
   margin-left: 568px;
-  margin-top: 100px;
+  display: flex;
+  text-align: center;
 }
 .keyboard-box {
   display: flex;
